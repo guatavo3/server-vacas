@@ -5080,6 +5080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-12-02 17:11:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-02 16:42:57 +0000"
@@ -5095,6 +5101,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2024-12-02 16:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-12-02 17:11:07 +0000"
     },
     "done": true
   },
@@ -5173,6 +5185,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-02 16:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-12-02 17:11:07 +0000"
     },
     "done": true
   },

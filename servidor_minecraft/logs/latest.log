@@ -788,3 +788,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 17:08:00.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Summoned new Mutant Skeleton]
 [02Dec2024 17:09:14.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Mutant Skeleton
 [02Dec2024 17:09:14.370] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(459, 90, 316) minecraft:overworld
+[02Dec2024 17:13:57.586] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[02Dec2024 17:13:57.589] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[02Dec2024 17:13:59.159] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
