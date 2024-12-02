@@ -913,3 +913,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 18:00:09.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 lost connection: Timed out
 [02Dec2024 18:00:09.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 left the game
 [02Dec2024 18:00:09.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Kicked ThiaguitoOwO2021: Kicked by an operator]
+[02Dec2024 18:00:55.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 has made the advancement [Clash of the Titans]
+[02Dec2024 18:03:12.580] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[02Dec2024 18:04:54.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/[::1]:57608] logged in with entity id 39126 at (469.6439699569813, 87.0, 247.51408693466894)
+[02Dec2024 18:04:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[02Dec2024 18:05:02.218] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/25832, l='ServerLevel[world]', x=-1466.28, y=94.50, z=-36.05, removed=DISCARDED]
+[02Dec2024 18:08:09.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [A Flaming Sword]
+[02Dec2024 18:10:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by ThiaguitoOwO2021
+[02Dec2024 18:10:15.067] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(451, 88, 283) minecraft:overworld
+[02Dec2024 18:10:38.062] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
