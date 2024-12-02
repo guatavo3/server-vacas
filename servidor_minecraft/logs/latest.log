@@ -762,3 +762,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 13:49:41.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
 [02Dec2024 13:49:41.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
 [02Dec2024 13:49:41.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[02Dec2024 13:50:15.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Summoned new Mutant Creeper]
+[02Dec2024 13:50:26.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[02Dec2024 13:50:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[02Dec2024 13:50:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to jhosichoza]
+[02Dec2024 13:50:49.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to ist_shadow]
+[02Dec2024 13:51:28.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to jhosichoza]
+[02Dec2024 13:51:34.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[02Dec2024 13:52:19.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by ist_shadow
+[02Dec2024 13:52:19.368] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(465, 88, 305) minecraft:overworld
+[02Dec2024 13:55:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow was slain by Cockatrice
+[02Dec2024 13:55:51.332] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(481, 87, 271) minecraft:overworld
