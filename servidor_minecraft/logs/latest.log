@@ -785,3 +785,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 14:04:57.815] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
 [02Dec2024 14:05:09.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1055, y=68, z=-206} BlockPos{x=1055, y=66, z=-206}
 [02Dec2024 14:05:14.879] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[02Dec2024 14:14:47.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}

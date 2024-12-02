@@ -9209,3 +9209,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 14:05:14.879] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [02Dec2024 14:09:23.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 14:09:23.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 14:14:23.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 14:14:23.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 14:14:47.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:14:47.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:18:52.688] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=3590, y=5, z=2256}
+[02Dec2024 14:19:06.392] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=450, y=87, z=281}
+[02Dec2024 14:19:23.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 14:19:23.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
