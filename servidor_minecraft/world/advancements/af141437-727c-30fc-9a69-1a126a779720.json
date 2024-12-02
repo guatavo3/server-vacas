@@ -39,8 +39,10 @@
     "criteria": {
       "minecraft:badlands": "2024-12-01 02:12:24 +0000",
       "minecraft:savanna_plateau": "2024-12-01 02:11:27 +0000",
+      "minecraft:stony_peaks": "2024-12-02 17:31:46 +0000",
       "minecraft:sparse_jungle": "2024-12-01 02:21:00 +0000",
       "minecraft:river": "2024-12-01 02:11:53 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-02 17:32:09 +0000",
       "minecraft:dripstone_caves": "2024-12-01 03:06:22 +0000",
       "minecraft:forest": "2024-12-01 02:11:38 +0000",
       "minecraft:jungle": "2024-12-01 02:23:53 +0000",
@@ -2450,6 +2452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-02 17:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-02 17:14:36 +0000"
@@ -2504,6 +2512,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-02 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-02 17:38:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-02 17:06:26 +0000"
@@ -2513,6 +2533,12 @@
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-12-02 17:06:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-12-02 17:38:25 +0000"
     },
     "done": true
   },
@@ -2561,6 +2587,12 @@
   "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-02 17:06:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2024-12-02 17:37:44 +0000"
     },
     "done": true
   },

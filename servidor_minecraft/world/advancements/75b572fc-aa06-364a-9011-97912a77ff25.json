@@ -42,6 +42,7 @@
       "minecraft:sparse_jungle": "2024-11-30 01:32:58 +0000",
       "minecraft:river": "2024-11-26 01:20:48 +0000",
       "minecraft:stony_shore": "2024-11-26 01:20:44 +0000",
+      "minecraft:jagged_peaks": "2024-12-02 17:39:24 +0000",
       "minecraft:cold_ocean": "2024-12-01 19:48:44 +0000",
       "minecraft:forest": "2024-11-29 23:13:33 +0000",
       "minecraft:jungle": "2024-12-01 01:51:20 +0000",
@@ -6300,6 +6301,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-02 17:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-02 16:55:12 +0000"
@@ -6327,6 +6334,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2024-12-02 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-02 17:38:25 +0000"
     },
     "done": true
   },
