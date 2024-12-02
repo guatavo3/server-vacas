@@ -703,3 +703,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 12:59:34.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosichoza> wwww
 [02Dec2024 13:00:15.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/entity/FallingTreeEntity$DestroyType
 [02Dec2024 13:00:15.111] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[02Dec2024 13:13:17.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/[::1]:54552] logged in with entity id 3770 at (144.5, 123.0, 103.5)
+[02Dec2024 13:13:17.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[02Dec2024 13:13:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Ice and Fire]
+[02Dec2024 13:13:48.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set the time to 1000]
+[02Dec2024 13:13:55.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set the weather to clear]
+[02Dec2024 13:14:32.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=429, y=93, z=337} BlockPos{x=430, y=91, z=335}
+[02Dec2024 13:15:33.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Timed out
+[02Dec2024 13:15:33.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[02Dec2024 13:15:33.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/[::1]:56082] logged in with entity id 4251 at (144.5, 123.0, 103.5)
+[02Dec2024 13:15:33.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[02Dec2024 13:16:08.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Kicked ist_shadow: Kicked by an operator]
+[02Dec2024 13:16:08.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Kicked by an operator
+[02Dec2024 13:16:08.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[02Dec2024 13:16:08.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/[::1]:47914] logged in with entity id 4365 at (144.5, 123.0, 103.5)
+[02Dec2024 13:16:08.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[02Dec2024 13:16:14.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: You logged in from another location
+[02Dec2024 13:16:14.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[02Dec2024 13:16:14.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Kicked ist_shadow: Kicked by an operator]
+[02Dec2024 13:16:14.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/[::1]:47554] logged in with entity id 4631 at (144.5, 123.0, 103.5)
+[02Dec2024 13:16:14.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[02Dec2024 13:16:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Alex's Mobs]
+[02Dec2024 13:17:08.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=94, z=357} BlockPos{x=400, y=92, z=357}
+[02Dec2024 13:17:08.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=94, z=357} BlockPos{x=400, y=92, z=357}
+[02Dec2024 13:17:09.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=121, z=120} BlockPos{x=158, y=123, z=118}
+[02Dec2024 13:17:09.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=121, z=120} BlockPos{x=158, y=122, z=118}
+[02Dec2024 13:17:09.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=121, z=120} BlockPos{x=158, y=123, z=118}
+[02Dec2024 13:18:02.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Stone Age]
+[02Dec2024 13:18:09.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Getting an Upgrade]
