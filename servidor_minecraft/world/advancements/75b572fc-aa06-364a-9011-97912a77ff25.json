@@ -5970,6 +5970,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-02 14:49:00 +0000",
       "minecraft:nether_wastes": "2024-12-02 14:37:56 +0000",
+      "minecraft:soul_sand_valley": "2024-12-02 14:49:32 +0000",
       "minecraft:basalt_deltas": "2024-12-02 14:34:38 +0000"
     },
     "done": false
@@ -6136,6 +6137,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-02 14:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-02 14:15:14 +0000"
@@ -6175,6 +6182,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2024-12-02 14:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-02 14:50:34 +0000"
     },
     "done": true
   },

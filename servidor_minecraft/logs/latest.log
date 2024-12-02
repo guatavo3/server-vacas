@@ -835,3 +835,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 14:49:42.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Nightmare Fuel]
 [02Dec2024 14:50:16.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
 [02Dec2024 14:50:34.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Enchanter]
+[02Dec2024 14:52:04.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[02Dec2024 14:52:19.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[02Dec2024 14:52:22.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[02Dec2024 14:52:41.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4044ms or 80 ticks behind
+[02Dec2024 14:52:45.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 5.240258965911266,1.9986640208878583,-8.4322308825694
+[02Dec2024 14:52:53.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhosichoza moved wrongly!
+[02Dec2024 14:52:59.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 5.3804841080164465,4.5,7.653564120739247
+[02Dec2024 14:53:05.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8874ms or 177 ticks behind
+[02Dec2024 14:53:13.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! -8.703531768628636,-4.964159374955443,2.1240336182012243
+[02Dec2024 14:53:29.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 7.188102216282516,7.001335979112142,0.9477312648789962
+[02Dec2024 14:53:32.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12837ms or 256 ticks behind
+[02Dec2024 14:53:49.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 14:53:49.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 14:53:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 14:53:49.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Timed out
+[02Dec2024 14:53:49.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[02Dec2024 14:53:49.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 14:53:52.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 14:53:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 14:53:54.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 14:53:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[02Dec2024 14:53:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[02Dec2024 14:53:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 14:53:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 14:53:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 14:53:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[02Dec2024 14:53:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[02Dec2024 14:53:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 14:53:55.045] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
