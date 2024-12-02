@@ -731,3 +731,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 13:17:09.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=121, z=120} BlockPos{x=158, y=123, z=118}
 [02Dec2024 13:18:02.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Stone Age]
 [02Dec2024 13:18:09.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Getting an Upgrade]
+[02Dec2024 13:19:48.134] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[02Dec2024 13:20:21.477] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/RootConnections$ConnectionLevel
+[02Dec2024 13:21:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Rotten to the Core]
+[02Dec2024 13:23:18.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Best Friends Forever]
+[02Dec2024 13:23:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Stay Out of my Peripheral!]
