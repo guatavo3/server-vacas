@@ -751,3 +751,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 13:36:31.788] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(466, 94, -15) minecraft:overworld
 [02Dec2024 13:37:26.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [02Dec2024 13:37:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Monster Hunter]
+[02Dec2024 13:41:23.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Acquire Hardware]
+[02Dec2024 13:42:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Isn't It Iron Pick]
+[02Dec2024 13:48:33.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Sneak 100]
+[02Dec2024 13:49:22.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[02Dec2024 13:49:29.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to ist_shadow]
+[02Dec2024 13:49:37.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Suit Up]
+[02Dec2024 13:49:41.368] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[02Dec2024 13:49:41.369] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[02Dec2024 13:49:41.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[02Dec2024 13:49:41.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[02Dec2024 13:49:41.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
