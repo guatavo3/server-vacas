@@ -791,3 +791,42 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 14:14:47.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
 [02Dec2024 14:14:47.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
 [02Dec2024 14:14:47.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=92, z=385} BlockPos{x=417, y=91, z=384}
+[02Dec2024 14:28:48.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by Kobold
+[02Dec2024 14:28:48.381] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3589, 6, 2255) twilightforest:twilight_forest
+[02Dec2024 14:29:22.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:30:16.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:30:16.885] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3582, 6, 2261) twilightforest:twilight_forest
+[02Dec2024 14:30:28.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:30:35.546] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:30:35.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:30:35.734] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3583, 6, 2258) twilightforest:twilight_forest
+[02Dec2024 14:30:42.862] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:30:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:30:44.186] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3583, 6, 2255) twilightforest:twilight_forest
+[02Dec2024 14:30:58.696] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:30:59.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:30:59.638] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3584, 6, 2255) twilightforest:twilight_forest
+[02Dec2024 14:31:14.097] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:31:14.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:31:14.286] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3584, 7, 2257) twilightforest:twilight_forest
+[02Dec2024 14:31:22.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:31:22.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:31:22.333] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3587, 6, 2255) twilightforest:twilight_forest
+[02Dec2024 14:31:30.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:31:53.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:32:17.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:32:17.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Winter Wolf
+[02Dec2024 14:32:17.792] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3587, 6, 2254) twilightforest:twilight_forest
+[02Dec2024 14:32:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[02Dec2024 14:32:42.345] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:32:48.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[02Dec2024 14:34:36.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [We Need to Go Deeper]
+[02Dec2024 14:34:38.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
+[02Dec2024 14:34:45.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[02Dec2024 14:35:20.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 burned to death
+[02Dec2024 14:35:20.738] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(36, 54, 42) minecraft:the_nether
+[02Dec2024 14:36:01.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:36:36.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 burned to death
+[02Dec2024 14:36:36.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(36, 53, 47) minecraft:the_nether
+[02Dec2024 14:36:54.798] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Dec2024 14:36:58.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Straddle My Ol' Saddle]
