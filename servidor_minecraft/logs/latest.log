@@ -736,3 +736,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 13:21:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Rotten to the Core]
 [02Dec2024 13:23:18.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Best Friends Forever]
 [02Dec2024 13:23:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Stay Out of my Peripheral!]
+[02Dec2024 13:29:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Sweet Dreams]
+[02Dec2024 13:36:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow was shot by Skeleton
+[02Dec2024 13:36:01.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/simpletomb/data/MessageType
+[02Dec2024 13:36:01.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(460, 94, -27) minecraft:overworld
+[02Dec2024 13:36:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> zzzzz
+[02Dec2024 13:36:16.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[02Dec2024 13:36:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[02Dec2024 13:36:24.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Dec2024 13:36:24.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Dec2024 13:36:27.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Getting an Upgrade]
+[02Dec2024 13:36:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Stone Age]
+[02Dec2024 13:36:31.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow was killed by Witch using magic
+[02Dec2024 13:36:31.788] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(466, 94, -15) minecraft:overworld
+[02Dec2024 13:37:26.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[02Dec2024 13:37:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Monster Hunter]
