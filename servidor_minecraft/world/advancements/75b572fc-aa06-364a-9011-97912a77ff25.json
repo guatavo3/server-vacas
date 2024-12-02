@@ -1232,6 +1232,7 @@
       "minecraft:phantom": "2024-12-01 02:15:59 +0000",
       "minecraft:witch": "2024-12-02 12:49:03 +0000",
       "minecraft:wither_skeleton": "2024-12-01 20:48:30 +0000",
+      "minecraft:piglin": "2024-12-02 14:45:32 +0000",
       "minecraft:enderman": "2024-11-30 22:50:35 +0000",
       "minecraft:silverfish": "2024-12-01 13:23:59 +0000",
       "minecraft:zombie": "2024-11-29 23:14:22 +0000",
@@ -5967,6 +5968,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-02 14:49:00 +0000",
       "minecraft:nether_wastes": "2024-12-02 14:37:56 +0000",
       "minecraft:basalt_deltas": "2024-12-02 14:34:38 +0000"
     },
@@ -6017,6 +6019,12 @@
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-02 14:33:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-02 14:45:34 +0000"
     },
     "done": true
   },
