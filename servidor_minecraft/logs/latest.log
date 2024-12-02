@@ -791,3 +791,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 17:13:57.586] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [02Dec2024 17:13:57.589] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
 [02Dec2024 17:13:59.159] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[02Dec2024 17:23:53.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=399, y=94, z=365} BlockPos{x=399, y=93, z=366}
+[02Dec2024 17:29:10.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <c_Benji0w0> tienen cuero?
+[02Dec2024 17:29:17.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> no pe
+[02Dec2024 17:29:21.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
