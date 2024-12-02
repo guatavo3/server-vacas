@@ -8311,3 +8311,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 12:45:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza has made the advancement [Rotten to the Core]
 [02Dec2024 12:45:17.534] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
 [02Dec2024 12:45:23.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[02Dec2024 12:49:01.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 12:49:23.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 12:49:23.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 12:49:38.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[02Dec2024 12:49:38.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosichoza> se apagp mi celular jsjs
+[02Dec2024 12:52:47.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosichoza> yaa
+[02Dec2024 12:52:55.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosichoza> ya al 1
+[02Dec2024 12:53:24.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[02Dec2024 12:54:23.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 12:54:23.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 12:55:58.930] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=3590, y=5, z=2256}
+[02Dec2024 12:59:23.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 12:59:23.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 12:59:34.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosichoza> wwww
+[02Dec2024 13:00:15.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/entity/FallingTreeEntity$DestroyType
+[02Dec2024 13:00:15.111] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[02Dec2024 13:04:23.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 13:04:23.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
