@@ -1237,6 +1237,7 @@
       "minecraft:piglin": "2024-12-02 14:45:32 +0000",
       "minecraft:enderman": "2024-11-30 22:50:35 +0000",
       "minecraft:silverfish": "2024-12-01 13:23:59 +0000",
+      "minecraft:stray": "2024-12-02 17:44:54 +0000",
       "minecraft:zombie": "2024-11-29 23:14:22 +0000",
       "minecraft:zombie_villager": "2024-12-01 19:08:40 +0000"
     },
@@ -6283,9 +6284,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-02 17:43:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-02 16:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-02 17:45:36 +0000"
     },
     "done": true
   },
@@ -6331,6 +6344,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-02 17:41:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2024-12-02 16:36:22 +0000"
@@ -6352,6 +6371,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-02 16:55:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-02 17:39:44 +0000"
     },
     "done": true
   },
@@ -6382,6 +6407,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2024-12-02 16:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-02 17:43:22 +0000"
     },
     "done": true
   },
@@ -6424,6 +6455,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-02 16:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-02 17:45:36 +0000"
     },
     "done": true
   },
