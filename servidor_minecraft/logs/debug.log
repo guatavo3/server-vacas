@@ -8720,3 +8720,50 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 16:36:52.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
 [02Dec2024 16:36:53.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
 [02Dec2024 16:38:22.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[02Dec2024 16:39:31.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Cockatrice
+[02Dec2024 16:39:31.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(455, 88, 273) minecraft:overworld
+[02Dec2024 16:39:32.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 16:39:32.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 16:39:32.959] [Server thread/DEBUG] [twilightforest/]: Player ThiaguitoOwO2021 (af141437-727c-30fc-9a69-1a126a779720) respawned and received items held in storage
+[02Dec2024 16:39:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <c_Benji0w0> hey
+[02Dec2024 16:39:43.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <c_Benji0w0> q haces
+[02Dec2024 16:40:56.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 16:41:20.352] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[02Dec2024 16:41:20.353] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[02Dec2024 16:41:20.359] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[02Dec2024 16:43:14.508] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[02Dec2024 16:44:32.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 16:44:32.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 16:45:09.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[02Dec2024 16:45:13.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[02Dec2024 16:45:13.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_0
+[02Dec2024 16:45:13.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_5
+[02Dec2024 16:45:13.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_1
+[02Dec2024 16:45:13.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0
+[02Dec2024 16:45:13.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0
+[02Dec2024 16:45:13.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_0
+[02Dec2024 16:45:13.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_3
+[02Dec2024 16:45:13.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_1
+[02Dec2024 16:45:13.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_1
+[02Dec2024 16:45:13.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0
+[02Dec2024 16:45:13.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_3
+[02Dec2024 16:45:13.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_0
+[02Dec2024 16:45:13.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_2
+[02Dec2024 16:45:13.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_2
+[02Dec2024 16:45:13.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_4
+[02Dec2024 16:45:13.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_4
+[02Dec2024 16:45:59.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Dec2024 16:45:59.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Dec2024 16:45:59.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 was blown up by Creeper
+[02Dec2024 16:45:59.422] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(100, 109, 598) minecraft:overworld
+[02Dec2024 16:46:01.530] [Server thread/DEBUG] [twilightforest/]: Player c_Benji0w0 (7930e6b4-ecba-3ad8-9a5a-a307f67b9578) respawned and received items held in storage
+[02Dec2024 16:46:04.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> xd
+[02Dec2024 16:46:08.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> Q PASO MAS TER
+[02Dec2024 16:46:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 was blown up by Creeper
+[02Dec2024 16:46:30.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(98, 109, 592) minecraft:overworld
+[02Dec2024 16:46:31.952] [Server thread/DEBUG] [twilightforest/]: Player c_Benji0w0 (7930e6b4-ecba-3ad8-9a5a-a307f67b9578) respawned and received items held in storage
+[02Dec2024 16:48:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 was shot by Skeleton
+[02Dec2024 16:48:32.988] [Server thread/DEBUG] [twilightforest/]: Player c_Benji0w0 (7930e6b4-ecba-3ad8-9a5a-a307f67b9578) respawned and received items held in storage
+[02Dec2024 16:48:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 was shot by Skeleton
+[02Dec2024 16:48:55.204] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(106, 110, 598) minecraft:overworld
+[02Dec2024 16:48:57.517] [Server thread/DEBUG] [twilightforest/]: Player c_Benji0w0 (7930e6b4-ecba-3ad8-9a5a-a307f67b9578) respawned and received items held in storage
