@@ -879,3 +879,13 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [03Dec2024 16:33:53.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
 [03Dec2024 16:34:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
 [03Dec2024 16:35:14.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[03Dec2024 16:35:55.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[03Dec2024 16:36:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[03Dec2024 16:37:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 has reached the goal [Forlornliest Day of My Life]
+[03Dec2024 16:39:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has reached the goal [Forlornliest Day of My Life]
+[03Dec2024 16:42:29.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Chattering Teeth]
+[03Dec2024 16:42:38.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 was slain by Underzealot
+[03Dec2024 16:42:38.227] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-3655, -22, 133) minecraft:overworld
+[03Dec2024 16:42:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Hans Moleman]
+[03Dec2024 16:43:01.177] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 16:44:43.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Got Lamps?]

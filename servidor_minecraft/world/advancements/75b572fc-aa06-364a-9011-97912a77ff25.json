@@ -7440,6 +7440,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_underzealot": "2024-12-03 16:42:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-03 16:18:34 +0000"
