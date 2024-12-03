@@ -909,3 +909,66 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 01:49:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abdias_17> VALIERONNNNNNNNNNNNNNNNNNNN
 [03Dec2024 01:50:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> hice arios sin querer
 [03Dec2024 01:50:22.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kanekasotaku moved too quickly! -0.5195107167492097,-2.0,10.054978553584874
+[03Dec2024 01:50:28.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> me das bota?
+[03Dec2024 01:50:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> pera
+[03Dec2024 01:50:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 has made the advancement [We Need to Go Deeper]
+[03Dec2024 01:50:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> ire por hieror
+[03Dec2024 01:51:25.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 has made the advancement [Straddle My Ol' Saddle]
+[03Dec2024 01:51:49.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[03Dec2024 01:52:30.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza tried to swim in lava to escape Straddler
+[03Dec2024 01:52:30.611] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(46, 32, 67) minecraft:the_nether
+[03Dec2024 01:52:31.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanekasotaku has made the advancement [People Are Strange]
+[03Dec2024 01:53:46.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> q
+[03Dec2024 01:53:47.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[03Dec2024 01:53:47.954] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[03Dec2024 01:53:47.959] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[03Dec2024 01:53:49.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> agua?
+[03Dec2024 01:53:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanekasotaku was turned into KFC by Fire Dragon
+[03Dec2024 01:53:52.563] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-175, 60, 955) minecraft:overworld
+[03Dec2024 01:54:09.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanekasotaku was slain by Crocodile
+[03Dec2024 01:54:20.508] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 01:54:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by abdias_17
+[03Dec2024 01:54:53.612] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[03Dec2024 01:55:05.205] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[03Dec2024 01:55:05.206] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[03Dec2024 01:55:05.251] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[03Dec2024 01:55:05.501] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[03Dec2024 01:55:05.502] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[03Dec2024 01:55:22.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Who is Cutting Onions?]
+[03Dec2024 01:56:27.767] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[03Dec2024 01:56:28.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[03Dec2024 01:56:32.215] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[03Dec2024 01:56:32.216] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[03Dec2024 01:56:32.251] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[03Dec2024 01:56:32.298] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[03Dec2024 01:56:32.298] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[03Dec2024 01:56:32.298] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[03Dec2024 01:56:32.299] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[03Dec2024 01:56:32.299] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[03Dec2024 01:56:32.299] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[03Dec2024 01:56:32.300] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[03Dec2024 01:56:32.301] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[03Dec2024 01:56:32.301] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[03Dec2024 01:56:32.301] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[03Dec2024 01:56:32.301] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[03Dec2024 01:56:32.302] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[03Dec2024 01:56:32.302] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[03Dec2024 01:56:32.302] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[03Dec2024 01:56:32.302] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[03Dec2024 01:56:32.303] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[03Dec2024 01:56:32.303] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[03Dec2024 01:56:32.386] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[03Dec2024 01:56:32.386] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[03Dec2024 01:56:40.505] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[03Dec2024 01:56:40.506] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[03Dec2024 01:56:44.112] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[03Dec2024 01:56:44.112] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[03Dec2024 01:57:02.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> we
+[03Dec2024 01:57:06.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> me dio flechas
+[03Dec2024 01:57:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 has made the advancement [Ice Bucket Challenge]
+[03Dec2024 01:57:27.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by abdias_17
+[03Dec2024 01:57:27.963] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(460, 96, 299) minecraft:overworld
+[03Dec2024 01:57:56.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> donde tara la fortaleza
+[03Dec2024 01:58:11.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> el gustavo sabe olfatear
+[03Dec2024 01:58:15.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> tpeando
+[03Dec2024 01:59:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> nos perdimow

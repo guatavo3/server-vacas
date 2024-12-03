@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-03 01:51:53 +0000",
       "minecraft:savanna_plateau": "2024-12-01 02:55:48 +0000",
       "minecraft:stony_peaks": "2024-12-01 03:03:24 +0000",
       "minecraft:sparse_jungle": "2024-12-01 01:49:15 +0000",
@@ -3398,6 +3399,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-03 01:41:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2024-12-03 01:52:31 +0000"
     },
     "done": true
   },
