@@ -1271,6 +1271,7 @@
       "minecraft:hoglin": "2024-12-01 20:51:54 +0000",
       "minecraft:magma_cube": "2024-12-03 01:55:28 +0000",
       "minecraft:spider": "2024-12-02 17:29:10 +0000",
+      "minecraft:phantom": "2024-12-03 21:50:38 +0000",
       "minecraft:wither_skeleton": "2024-12-01 20:53:57 +0000",
       "minecraft:zombie": "2024-12-01 02:49:15 +0000"
     },
@@ -4292,6 +4293,12 @@
   "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
     "criteria": {
       "cooked_chicken_cuts": "2024-12-03 17:07:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2024-12-03 21:42:59 +0000"
     },
     "done": true
   },
