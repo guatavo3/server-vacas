@@ -7215,5 +7215,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2024-12-03 00:34:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

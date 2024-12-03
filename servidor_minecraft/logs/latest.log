@@ -753,3 +753,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 00:38:25.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
 [03Dec2024 00:38:50.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:34072] logged in with entity id 7005 at (448.3586339630283, 87.7801506214026, 254.89326753947645)
 [03Dec2024 00:38:50.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 00:41:32.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
+[03Dec2024 00:41:32.664] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(459, 96, 295) minecraft:overworld
+[03Dec2024 00:42:13.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Applied effect Mining Fatigue to abdias_17]
+[03Dec2024 00:42:45.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: You logged in from another location
+[03Dec2024 00:42:45.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 00:42:45.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:42800] logged in with entity id 7517 at (462.4942921476351, 96.5625, 303.69999998807907)
+[03Dec2024 00:42:45.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 00:42:46.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Kicked abdias_17: Kicked by an operator]
+[03Dec2024 00:42:54.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Kicked by an operator
+[03Dec2024 00:42:54.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 00:42:55.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:40752] logged in with entity id 7519 at (462.4942921476351, 96.5625, 303.69999998807907)
+[03Dec2024 00:42:55.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 00:42:59.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Kicked abdias_17: Kicked by an operator]
+[03Dec2024 00:42:59.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Kicked by an operator
+[03Dec2024 00:42:59.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 00:43:39.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:55596] logged in with entity id 7536 at (462.4942921476351, 96.5625, 303.69999998807907)
+[03Dec2024 00:43:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 00:44:09.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41e12ff9[id=<null>,name=abdias_17,properties={},legacy=false] (/[::1]:36442) lost connection: Timed out
+[03Dec2024 00:44:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
+[03Dec2024 00:44:56.107] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(463, 97, 303) minecraft:overworld
+[03Dec2024 00:45:06.249] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@275e53cd[id=<null>,name=abdias_17,properties={},legacy=false] (/[::1]:51132) lost connection: Timed out
+[03Dec2024 00:45:18.851] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@741179f4[id=<null>,name=abdias_17,properties={},legacy=false] (/[::1]:34968) lost connection: Timed out
+[03Dec2024 00:46:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Getting an Upgrade]
+[03Dec2024 00:47:20.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
+[03Dec2024 00:47:20.658] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(463, 95, 288) minecraft:overworld
