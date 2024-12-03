@@ -7221,5 +7221,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-03 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 14:54:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

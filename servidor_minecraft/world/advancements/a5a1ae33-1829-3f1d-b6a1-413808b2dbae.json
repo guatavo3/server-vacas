@@ -3612,6 +3612,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-03 02:39:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-03 02:29:24 +0000"
