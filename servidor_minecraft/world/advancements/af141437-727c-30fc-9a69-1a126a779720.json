@@ -4271,6 +4271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-03 17:01:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
     "criteria": {
       "cooked_chicken_cuts": "2024-12-03 17:07:11 +0000"
@@ -4289,9 +4295,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_item_frame": "2024-12-03 17:01:43 +0000"
+      "has_bone_meal": "2024-12-03 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-03 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-03 21:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-03 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-03 21:35:03 +0000"
     },
     "done": true
   },

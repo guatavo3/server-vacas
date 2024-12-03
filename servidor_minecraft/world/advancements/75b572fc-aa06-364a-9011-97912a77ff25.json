@@ -7626,5 +7626,41 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2024-12-03 21:15:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2024-12-03 21:19:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2024-12-03 21:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-03 21:19:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_forsaken": {
+    "criteria": {
+      "killed": "2024-12-03 21:41:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2024-12-03 21:42:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
