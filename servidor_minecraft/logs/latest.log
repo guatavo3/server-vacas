@@ -820,3 +820,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 01:08:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> nop
 [03Dec2024 01:09:20.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=52, z=43} BlockPos{x=129, y=52, z=44}
 [03Dec2024 01:09:33.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> te la quemo si kieres
+[03Dec2024 01:11:55.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=75, z=128} BlockPos{x=181, y=75, z=129}
+[03Dec2024 01:11:55.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=75, z=128} BlockPos{x=181, y=75, z=129}
+[03Dec2024 01:11:56.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=75, z=128} BlockPos{x=181, y=75, z=129}
+[03Dec2024 01:11:56.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=77, z=129} BlockPos{x=181, y=75, z=129}
+[03Dec2024 01:11:56.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=76, z=128} BlockPos{x=179, y=76, z=128}
+[03Dec2024 01:11:56.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=75, z=129} BlockPos{x=180, y=75, z=128}
+[03Dec2024 01:12:00.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=127} BlockPos{x=185, y=75, z=125}
+[03Dec2024 01:12:18.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Timed out
+[03Dec2024 01:12:18.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 01:12:18.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:32940] logged in with entity id 13507 at (462.7896964500617, 87.0, 251.09582203511818)
+[03Dec2024 01:12:18.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 01:13:30.105] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6390045a[id=<null>,name=abdias_17,properties={},legacy=false] (/[::1]:43172) lost connection: Timed out
+[03Dec2024 01:13:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> de q
+[03Dec2024 01:15:14.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> creo k la agarraste
+[03Dec2024 01:15:45.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> NO C
+[03Dec2024 01:16:22.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by abdias_17
+[03Dec2024 01:16:22.433] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(456, 88, 280) minecraft:overworld
+[03Dec2024 01:16:37.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by Kobold
+[03Dec2024 01:16:48.834] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 01:19:29.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType

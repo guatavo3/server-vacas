@@ -4416,6 +4416,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2024-12-03 01:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-03 00:36:31 +0000"
