@@ -709,3 +709,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 00:15:43.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:45988] logged in with entity id 2047 at (152.05103888038184, 118.0, 114.84047802078946)
 [03Dec2024 00:15:43.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
 [03Dec2024 00:18:18.099] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[03Dec2024 00:19:08.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by abdias_17
+[03Dec2024 00:19:08.527] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(445, 88, 281) minecraft:overworld
+[03Dec2024 00:19:21.906] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 00:19:22.601] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[03Dec2024 00:20:37.199] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[03Dec2024 00:20:43.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza has made the advancement [Best Friends Forever]
+[03Dec2024 00:20:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza has made the advancement [Stay Out of my Peripheral!]
+[03Dec2024 00:24:53.168] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/RootConnections$ConnectionLevel
+[03Dec2024 00:25:42.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[03Dec2024 00:25:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by abdias_17
+[03Dec2024 00:25:46.601] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(456, 96, 303) minecraft:overworld
+[03Dec2024 00:26:16.709] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 00:27:52.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by jhosichoza
+[03Dec2024 00:27:52.962] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(484, 90, 226) minecraft:overworld
+[03Dec2024 00:28:24.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Skeleton

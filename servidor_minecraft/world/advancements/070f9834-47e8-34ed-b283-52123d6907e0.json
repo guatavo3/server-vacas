@@ -4398,5 +4398,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2024-12-03 00:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-03 00:20:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
