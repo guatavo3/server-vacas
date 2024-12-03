@@ -757,3 +757,28 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [03Dec2024 15:48:06.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [03Dec2024 15:52:05.701] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [03Dec2024 15:52:05.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[03Dec2024 15:56:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 tried to swim in lava to escape Straddler
+[03Dec2024 15:56:13.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/simpletomb/data/MessageType
+[03Dec2024 15:56:13.040] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-374, 32, 7) minecraft:the_nether
+[03Dec2024 15:56:18.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 tried to swim in lava to escape Straddler
+[03Dec2024 15:56:18.143] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-361, 34, 8) minecraft:the_nether
+[03Dec2024 15:56:34.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 tried to swim in lava
+[03Dec2024 15:56:47.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported c_Benji0w0 to elguatavo7u7159]
+[03Dec2024 15:56:50.494] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 15:57:21.073] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[03Dec2024 15:57:21.553] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[03Dec2024 15:57:31.325] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Dec2024 15:57:33.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[03Dec2024 15:57:35.458] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/branch/ThickBranchBlock$ReplaceableState
+[03Dec2024 15:57:35.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported abdias_17 to elguatavo7u7159]
+[03Dec2024 15:57:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 burned to death
+[03Dec2024 15:57:51.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported abdias_17 to elguatavo7u7159]
+[03Dec2024 15:58:35.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 tried to swim in lava to escape Straddler
+[03Dec2024 15:58:35.837] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-388, 32, 5) minecraft:the_nether
+[03Dec2024 15:59:00.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[03Dec2024 15:59:09.302] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 16:00:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Straddle My Ol' Saddle]
+[03Dec2024 16:02:19.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11302ms or 226 ticks behind
+[03Dec2024 16:02:56.427] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[03Dec2024 16:02:56.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[03Dec2024 16:02:56.436] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType

@@ -8627,3 +8627,80 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [03Dec2024 15:52:05.701] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [03Dec2024 15:52:05.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [03Dec2024 15:52:37.895] [Worker-Main-1/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[03Dec2024 15:54:54.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 15:54:54.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 15:55:56.142] [Worker-Main-1/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[03Dec2024 15:55:56.143] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$8be3e0$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[03Dec2024 15:56:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 tried to swim in lava to escape Straddler
+[03Dec2024 15:56:13.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/simpletomb/data/MessageType
+[03Dec2024 15:56:13.040] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-374, 32, 7) minecraft:the_nether
+[03Dec2024 15:56:17.857] [Server thread/DEBUG] [twilightforest/]: Player c_Benji0w0 (7930e6b4-ecba-3ad8-9a5a-a307f67b9578) respawned and received items held in storage
+[03Dec2024 15:56:18.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 tried to swim in lava to escape Straddler
+[03Dec2024 15:56:18.143] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-361, 34, 8) minecraft:the_nether
+[03Dec2024 15:56:23.480] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[03Dec2024 15:56:34.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 tried to swim in lava
+[03Dec2024 15:56:36.302] [Server thread/DEBUG] [twilightforest/]: Player c_Benji0w0 (7930e6b4-ecba-3ad8-9a5a-a307f67b9578) respawned and received items held in storage
+[03Dec2024 15:56:47.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported c_Benji0w0 to elguatavo7u7159]
+[03Dec2024 15:56:50.494] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 15:57:21.073] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[03Dec2024 15:57:21.553] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[03Dec2024 15:57:31.325] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith2 is being run through DFU (hash eec5fcbc88c7757a9d14fea20520fefc27e2f54c11daf642420c46ad6d53f746), this will cause launch time delays
+[03Dec2024 15:57:31.325] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Dec2024 15:57:32.408] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith is being run through DFU (hash f73241e141a2b7af2130785c8c527782dc67664a95f831cef11e7de72b81ad5e), this will cause launch time delays
+[03Dec2024 15:57:33.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[03Dec2024 15:57:35.458] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/branch/ThickBranchBlock$ReplaceableState
+[03Dec2024 15:57:35.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported abdias_17 to elguatavo7u7159]
+[03Dec2024 15:57:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 burned to death
+[03Dec2024 15:57:40.198] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[03Dec2024 15:57:51.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported abdias_17 to elguatavo7u7159]
+[03Dec2024 15:58:22.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Dec2024 15:58:35.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 tried to swim in lava to escape Straddler
+[03Dec2024 15:58:35.837] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-388, 32, 5) minecraft:the_nether
+[03Dec2024 15:58:41.494] [Server thread/DEBUG] [twilightforest/]: Player c_Benji0w0 (7930e6b4-ecba-3ad8-9a5a-a307f67b9578) respawned and received items held in storage
+[03Dec2024 15:59:00.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[03Dec2024 15:59:09.302] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 15:59:57.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 15:59:57.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 16:00:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Straddle My Ol' Saddle]
+[03Dec2024 16:02:19.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11302ms or 226 ticks behind
+[03Dec2024 16:02:56.427] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[03Dec2024 16:02:56.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[03Dec2024 16:02:56.436] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[03Dec2024 16:04:18.730] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[03Dec2024 16:04:18.746] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[03Dec2024 16:04:18.769] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[03Dec2024 16:04:18.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[03Dec2024 16:04:18.816] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[03Dec2024 16:04:18.831] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[03Dec2024 16:04:18.848] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[03Dec2024 16:04:18.856] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[03Dec2024 16:04:18.861] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_4 is being run through DFU (hash 47d1184c4d001ce337c6456fd742c7476eb225727e918789aa5628b16a8493cb), this will cause launch time delays
+[03Dec2024 16:04:18.910] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_3 is being run through DFU (hash a15b08337c7adaeeaa3ee4b453591f373857a09a732542bde3cc405b9177f6d8), this will cause launch time delays
+[03Dec2024 16:04:18.912] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_0 is being run through DFU (hash bf23db55ed7d5c73cf3fb5671b3db02e5c83af359d1e66b89c28216a6f9be917), this will cause launch time delays
+[03Dec2024 16:04:18.927] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_9 is being run through DFU (hash 72d962fb858cba264fd658485f546d713d512b52bacb053394a989da999326c2), this will cause launch time delays
+[03Dec2024 16:04:18.939] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_4 is being run through DFU (hash 96899e83df030b33991bc7fbc7ecb7ed55fa886d3a02aa0afd2ad5a74a63f0bd), this will cause launch time delays
+[03Dec2024 16:04:18.944] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_2 is being run through DFU (hash 1521a100dc9fadf0dbb5070a31ce77465a294b403d564f3f05d064b405ce441d), this will cause launch time delays
+[03Dec2024 16:04:18.947] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_6 is being run through DFU (hash 0d3ae5a86ff34f2523bf68422107572fa34299c1b3bf1772294b4bf9fe362936), this will cause launch time delays
+[03Dec2024 16:04:19.105] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_3 is being run through DFU (hash 0480f34a352a9b7303d71a185674dadee184fffefc208ff56b43558194d6a8ec), this will cause launch time delays
+[03Dec2024 16:04:19.109] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_7 is being run through DFU (hash da9b106f34b46847fca307bddfe8355b2cd8d3ba0ee6ae5fb38502041c289b99), this will cause launch time delays
+[03Dec2024 16:04:19.113] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_12 is being run through DFU (hash e8d6884b3f9044b6ebfbdadf9ef2132e7af8d6f8b7ac6f7af9a7387861bae3b6), this will cause launch time delays
+[03Dec2024 16:04:19.119] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_1 is being run through DFU (hash c6236a19b873586e9bb54a09a5b0ceede18a7e3280986c7406a079c52b892dc5), this will cause launch time delays
+[03Dec2024 16:04:19.132] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_8 is being run through DFU (hash f0a7c0ed67111b7ce7d8fa288e2761c9b4d3242e992eef611ff6025ed3a6cd96), this will cause launch time delays
+[03Dec2024 16:04:19.135] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_0 is being run through DFU (hash 2ff5721c0410ef90e99f7cdfed7da1fbb09452fa7c3d793e24baa3f6970a1ba8), this will cause launch time delays
+[03Dec2024 16:04:19.138] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_5 is being run through DFU (hash f1c56442a7fc2bb97723653bc849fe19059bcfb3879150a8fb69d27fc7cce6e4), this will cause launch time delays
+[03Dec2024 16:04:19.141] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_6 is being run through DFU (hash 3addeef1bd3fa4b303dcd3a9624fbb8befd91bc37a09ffc733ce604793a97f71), this will cause launch time delays
+[03Dec2024 16:04:19.143] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_9 is being run through DFU (hash 24f9a49585b1e9147d5a608aad029201e7a2c894716823a9d3213d2b67fd24df), this will cause launch time delays
+[03Dec2024 16:04:19.146] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_5 is being run through DFU (hash 0701dd046ffd2fc28e196417016de4d3dc5780887240554b4419708d4a19d921), this will cause launch time delays
+[03Dec2024 16:04:19.147] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_11 is being run through DFU (hash 5401c610d3706d8b6fada968b1b50bd07b4b0be139c70309e52ce9251d85d811), this will cause launch time delays
+[03Dec2024 16:04:19.149] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_10 is being run through DFU (hash cc9254c57096766ea0f4d6c8af33ba426e14e26c2797d4f0a04d9dd3e3f41be3), this will cause launch time delays
+[03Dec2024 16:04:19.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_8 is being run through DFU (hash bbed328bb0806a5f8abe6a3f9e4c0ef0da6dea723ce8c345083cdd186c2b3289), this will cause launch time delays
+[03Dec2024 16:04:19.155] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_1 is being run through DFU (hash 6836751b9b7fb5886d865d0123799dcce2bba2350268889a0be944b0041e250b), this will cause launch time delays
+[03Dec2024 16:04:19.156] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_7 is being run through DFU (hash defe8ef8b9d13c7aa61d50f0c149bea235d36c6eeabd7e5f43d3086964b5497f), this will cause launch time delays
+[03Dec2024 16:04:19.159] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_0 is being run through DFU (hash 61295310d71474a442e83ba03a803713e1ba4a2318c9271eca8c4951c8208a3e), this will cause launch time delays
+[03Dec2024 16:04:19.160] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_2 is being run through DFU (hash 0d3253fd379d4a7021e13d7d4d4f9a0f886c26db28ac3f9fca5af9186e958d8d), this will cause launch time delays
+[03Dec2024 16:04:19.164] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_4 is being run through DFU (hash 65346d252fbfce1a47692ce1c78ca5347f6da92c78c4a16507f27bbb71c11426), this will cause launch time delays
+[03Dec2024 16:04:19.187] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_5 is being run through DFU (hash 1269b0b1d57ca6a112d4c55fd4902961bc5c5566683cc6600fd7079ee9d77543), this will cause launch time delays
+[03Dec2024 16:04:19.329] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_archer_0 is being run through DFU (hash 9b1513ff9013dc662b572e80a8ccf55935501f49fbf919148933018a241764b8), this will cause launch time delays
+[03Dec2024 16:04:19.334] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_hoglin_1 is being run through DFU (hash b24b2724c1685175ba9d620139259f8d974aa75d6cc8c9b6cc317d013aba1f0a), this will cause launch time delays
+[03Dec2024 16:04:19.343] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_assassin_0 is being run through DFU (hash 2b23c1804258f9f740059618ffc6c3ee6e5e637361b7bb77020389575e823df7), this will cause launch time delays
+[03Dec2024 16:04:19.347] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_hoglin_0 is being run through DFU (hash a32b6db3a3440b928130b61d0539f86177efcb945d0df1069fe663a2019ba7e8), this will cause launch time delays
