@@ -794,3 +794,35 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [03Dec2024 15:01:06.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: c_Benji0w0[/[::1]:48108] logged in with entity id 12079 at (-158.64903851525128, 86.0, -39.30000001192093)
 [03Dec2024 15:01:06.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 joined the game
 [03Dec2024 15:01:06.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[03Dec2024 15:01:34.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Timed out
+[03Dec2024 15:01:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[03Dec2024 15:01:34.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/[::1]:60518] logged in with entity id 12665 at (509.54387243590475, 90.0, 296.551853202942)
+[03Dec2024 15:01:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[03Dec2024 15:02:08.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Pillager
+[03Dec2024 15:02:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[03Dec2024 15:04:53.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Pillager
+[03Dec2024 15:04:53.293] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(102, 72, 3285) minecraft:overworld
+[03Dec2024 15:05:07.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16575, l='ServerLevel[world]', x=-13.71, y=74.76, z=3428.75] died, message: 'Villager was slain by Ice Dragon'
+[03Dec2024 15:05:10.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Pillager
+[03Dec2024 15:05:11.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16574, l='ServerLevel[world]', x=-13.12, y=74.76, z=3428.02] died, message: 'Villager was slain by Ice Dragon'
+[03Dec2024 15:05:37.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> benje entra al dicord
+[03Dec2024 15:05:50.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leodrickk[/[::1]:46726] logged in with entity id 18778 at (146.5, 117.0, 114.5)
+[03Dec2024 15:05:50.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk joined the game
+[03Dec2024 15:05:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Ice and Fire]
+[03Dec2024 15:05:54.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <c_Benji0w0> sacame del nether se perdio el tp al portal
+[03Dec2024 15:05:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has completed the challenge [Free Willy]
+[03Dec2024 15:06:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> benje entro el mati
+[03Dec2024 15:06:11.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> entra a dicord
+[03Dec2024 15:06:22.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=158, y=121, z=118}
+[03Dec2024 15:06:29.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=158, y=120, z=118}
+[03Dec2024 15:06:30.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=158, y=121, z=118}
+[03Dec2024 15:06:41.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=161, y=121, z=120} BlockPos{x=158, y=122, z=118}
+[03Dec2024 15:07:05.806] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[03Dec2024 15:07:25.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Timed out
+[03Dec2024 15:07:25.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[03Dec2024 15:07:25.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/[::1]:43026] logged in with entity id 19564 at (514.3000000119209, 86.0, 296.30000001192093)
+[03Dec2024 15:07:25.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[03Dec2024 15:10:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by ist_shadow
+[03Dec2024 15:10:13.646] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(509, 89, 298) minecraft:overworld
+[03Dec2024 15:11:21.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ist_shadow> fuera
+[03Dec2024 15:11:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ist_shadow> fuera mrd

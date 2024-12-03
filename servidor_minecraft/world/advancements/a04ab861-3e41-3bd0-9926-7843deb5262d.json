@@ -37,6 +37,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-03 14:57:30 +0000",
+      "minecraft:taiga": "2024-12-03 15:00:26 +0000",
       "minecraft:deep_ocean": "2024-12-03 02:12:10 +0000",
       "minecraft:river": "2024-12-03 02:25:09 +0000",
       "minecraft:stony_shore": "2024-12-03 02:11:24 +0000",
@@ -2534,6 +2536,24 @@
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2024-12-03 02:40:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-03 15:05:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 15:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-03 15:05:56 +0000"
     },
     "done": true
   },
