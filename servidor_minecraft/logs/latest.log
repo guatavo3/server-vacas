@@ -792,3 +792,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 00:59:19.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
 [03Dec2024 00:59:19.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:38588] logged in with entity id 9236 at (451.1127304732129, 95.0, 334.5136867918866)
 [03Dec2024 00:59:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 00:59:46.367] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[03Dec2024 01:00:35.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[03Dec2024 01:00:35.055] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[03Dec2024 01:01:44.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by abdias_17
+[03Dec2024 01:01:44.455] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(462, 95, 292) minecraft:overworld
+[03Dec2024 01:02:24.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/[::1]:60672] logged in with entity id 10546 at (465.0833801704643, 87.0, 238.1880972699123)
+[03Dec2024 01:02:24.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[03Dec2024 01:03:41.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=146, y=74, z=91} BlockPos{x=146, y=73, z=91}
+[03Dec2024 01:04:31.609] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03Dec2024 01:04:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> tiago entra al dicord pe
+[03Dec2024 01:04:38.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> na q pja
+[03Dec2024 01:04:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> si hablo me fusilan
+[03Dec2024 01:04:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> llla lla
+[03Dec2024 01:05:05.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> entrare pero tare callado
+[03Dec2024 01:05:30.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> ci
+[03Dec2024 01:05:44.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> _D
+[03Dec2024 01:05:45.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> a
+[03Dec2024 01:05:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> ue
+[03Dec2024 01:05:56.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> que
+[03Dec2024 01:06:06.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> ke
+[03Dec2024 01:06:08.635] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 01:06:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> que quieres
+[03Dec2024 01:06:27.044] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/api/treedata/TreePart$TreePartType
+[03Dec2024 01:06:27.091] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/entity/FallingTreeEntity$DestroyType
+[03Dec2024 01:06:27.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[03Dec2024 01:08:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> nop
+[03Dec2024 01:09:20.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=52, z=43} BlockPos{x=129, y=52, z=44}
+[03Dec2024 01:09:33.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> te la quemo si kieres
