@@ -1150,6 +1150,7 @@
       "minecraft:magma_cube": "2024-12-03 01:55:19 +0000",
       "minecraft:spider": "2024-11-29 23:19:44 +0000",
       "minecraft:creeper": "2024-12-01 01:36:02 +0000",
+      "minecraft:phantom": "2024-12-03 16:17:16 +0000",
       "minecraft:zombified_piglin": "2024-12-02 18:24:15 +0000",
       "minecraft:cave_spider": "2024-11-29 23:53:07 +0000",
       "minecraft:enderman": "2024-12-01 01:58:53 +0000",
@@ -6309,6 +6310,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2024-12-03 16:11:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2024-12-03 15:53:16 +0000"
@@ -6318,6 +6325,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-03 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2024-12-03 16:10:22 +0000"
     },
     "done": true
   },
@@ -6339,6 +6352,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2024-12-03 16:11:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2024-12-03 16:11:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-03 15:53:16 +0000"
@@ -6354,6 +6379,18 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-03 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-03 16:11:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2024-12-03 16:11:13 +0000"
     },
     "done": true
   },
