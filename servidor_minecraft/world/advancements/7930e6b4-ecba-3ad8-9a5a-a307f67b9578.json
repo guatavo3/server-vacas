@@ -6400,6 +6400,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2024-12-03 16:47:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-03 16:30:00 +0000"

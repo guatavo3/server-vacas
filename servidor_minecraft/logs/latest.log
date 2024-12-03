@@ -889,3 +889,13 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [03Dec2024 16:42:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Hans Moleman]
 [03Dec2024 16:43:01.177] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [03Dec2024 16:44:43.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Got Lamps?]
+[03Dec2024 16:47:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 has made the advancement [That is One Big Pile of...]
+[03Dec2024 16:49:00.814] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictreesplus/systems/mushroomlogic/shapekits/BellShape$ringAction
+[03Dec2024 16:50:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Zombie
+[03Dec2024 16:50:07.034] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-3577, -24, 191) minecraft:overworld
+[03Dec2024 16:50:52.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: c_Benji0w0 lost connection: Timed out
+[03Dec2024 16:50:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 left the game
+[03Dec2024 16:51:03.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 lost connection: Timed out
+[03Dec2024 16:51:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 left the game
+[03Dec2024 16:53:48.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/[::1]:57866] logged in with entity id 30853 at (-3830.79186661304, 126.0, -86.90919825350406)
+[03Dec2024 16:53:48.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
