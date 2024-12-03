@@ -1234,6 +1234,7 @@
       "minecraft:skeleton": "2024-11-29 23:27:58 +0000",
       "minecraft:hoglin": "2024-12-01 02:23:36 +0000",
       "minecraft:vindicator": "2024-11-30 21:56:59 +0000",
+      "minecraft:magma_cube": "2024-12-03 15:46:44 +0000",
       "minecraft:spider": "2024-11-29 23:16:45 +0000",
       "minecraft:creeper": "2024-11-29 23:24:43 +0000",
       "minecraft:phantom": "2024-12-01 02:15:59 +0000",
@@ -7222,6 +7223,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-03 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-03 15:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-03 15:15:09 +0000"
@@ -7234,27 +7253,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-03 14:54:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-03 15:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-12-03 15:14:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-03 14:54:09 +0000"
     },
     "done": true
   },
