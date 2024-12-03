@@ -38,8 +38,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-03 02:12:10 +0000",
+      "minecraft:river": "2024-12-03 02:25:09 +0000",
       "minecraft:stony_shore": "2024-12-03 02:11:24 +0000",
+      "minecraft:cold_ocean": "2024-12-03 02:36:10 +0000",
       "minecraft:forest": "2024-12-03 00:49:45 +0000",
+      "minecraft:ocean": "2024-12-03 02:24:46 +0000",
       "minecraft:warm_ocean": "2024-12-03 02:10:28 +0000",
       "minecraft:savanna": "2024-12-03 00:13:00 +0000",
       "minecraft:plains": "2024-12-03 00:28:45 +0000"
@@ -673,6 +676,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2024-12-03 00:30:54 +0000",
+      "bread": "2024-12-03 02:19:18 +0000",
       "golden_carrot": "2024-12-03 00:38:14 +0000",
       "cooked_chicken": "2024-12-03 00:40:50 +0000"
     },
@@ -1290,9 +1294,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2024-12-03 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2024-12-03 02:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-03 01:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-03 02:20:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-03 02:20:22 +0000"
     },
     "done": true
   },
@@ -1386,6 +1414,12 @@
     },
     "done": true
   },
+  "taxov:advancement_pirate": {
+    "criteria": {
+      "advancement_pirate_0": "2024-12-03 02:24:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2024-12-03 02:13:19 +0000"
@@ -1404,9 +1438,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-03 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-03 02:28:57 +0000"
     },
     "done": true
   },
@@ -1419,6 +1465,18 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-03 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:vindicator": "2024-12-03 02:39:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
     },
     "done": true
   },
@@ -1458,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-03 02:20:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-03 02:13:19 +0000"
@@ -1476,9 +1540,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-03 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
     },
     "done": true
   },
@@ -1509,6 +1585,18 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-03 01:47:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-03 02:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
     },
     "done": true
   },
@@ -1644,6 +1732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2024-12-03 02:13:19 +0000"
@@ -1665,6 +1759,12 @@
   "twilightforest:recipes/combat/equipment/arctic_chestplate": {
     "criteria": {
       "has_item": "2024-12-03 01:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-03 02:20:39 +0000"
     },
     "done": true
   },
@@ -1728,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-03 02:14:38 +0000"
@@ -1779,6 +1885,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-03 01:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-03 02:20:46 +0000"
     },
     "done": true
   },
@@ -1836,6 +1948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-03 02:14:38 +0000"
@@ -1866,9 +1984,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-03 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
     },
     "done": true
   },
@@ -1884,9 +2020,21 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-03 02:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
     },
     "done": true
   },
@@ -1986,6 +2134,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-03 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-03 02:13:12 +0000"
@@ -2007,6 +2167,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_cure_base": "2024-12-03 02:20:46 +0000"
     },
     "done": true
   },
@@ -2058,6 +2224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-03 01:54:53 +0000"
@@ -2070,9 +2242,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-03 02:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-03 01:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
     },
     "done": true
   },
@@ -2091,6 +2281,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:20:22 +0000"
     },
     "done": true
   },
@@ -2226,6 +2422,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-03 02:37:17 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine": {
+    "criteria": {
+      "advancement_marine_0": "2024-12-03 02:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-03 01:47:22 +0000"
@@ -2241,6 +2449,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-03 01:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:vindicator": "2024-12-03 02:39:01 +0000"
     },
     "done": true
   },
