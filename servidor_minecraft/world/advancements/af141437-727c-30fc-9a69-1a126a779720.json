@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-03 21:55:48 +0000",
       "minecraft:deep_ocean": "2024-12-02 19:42:58 +0000",
       "minecraft:eroded_badlands": "2024-12-03 16:10:48 +0000",
       "minecraft:sunflower_plains": "2024-12-02 17:51:28 +0000",
@@ -51,10 +52,12 @@
       "minecraft:dripstone_caves": "2024-12-01 03:06:22 +0000",
       "minecraft:cold_ocean": "2024-12-02 20:06:14 +0000",
       "minecraft:forest": "2024-12-01 02:11:38 +0000",
+      "minecraft:frozen_ocean": "2024-12-03 21:52:52 +0000",
       "minecraft:jungle": "2024-12-01 02:23:53 +0000",
       "minecraft:ocean": "2024-12-02 19:42:40 +0000",
       "minecraft:flower_forest": "2024-12-02 19:42:11 +0000",
       "minecraft:deep_dark": "2024-12-02 18:49:33 +0000",
+      "minecraft:meadow": "2024-12-03 21:55:50 +0000",
       "minecraft:savanna": "2024-12-01 02:00:32 +0000",
       "minecraft:plains": "2024-12-01 02:11:43 +0000"
     },
@@ -4296,6 +4299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-03 22:03:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed": "2024-12-03 21:42:59 +0000"
@@ -4329,6 +4338,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-03 21:35:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-03 22:01:04 +0000"
     },
     "done": true
   },
