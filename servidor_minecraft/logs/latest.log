@@ -782,3 +782,21 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [03Dec2024 16:02:56.427] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
 [03Dec2024 16:02:56.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [03Dec2024 16:02:56.436] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[03Dec2024 16:04:32.281] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[03Dec2024 16:04:32.297] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[03Dec2024 16:09:25.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/[::1]:36950] logged in with entity id 12456 at (457.30115537724646, 87.0, 228.56855015060205)
+[03Dec2024 16:09:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[03Dec2024 16:09:58.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
+[03Dec2024 16:09:58.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 16:09:58.090] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 16:09:58.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:33628] logged in with entity id 13213 at (-4050.300000011921, 76.0, -196.69999998807907)
+[03Dec2024 16:09:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 16:10:17.521] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[03Dec2024 16:10:17.619] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[03Dec2024 16:10:22.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 has made the advancement [Dragonslayer]
+[03Dec2024 16:11:42.683] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03Dec2024 16:11:42.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> TIENGO ENTRA AL DICORD PE
+[03Dec2024 16:13:55.676] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[03Dec2024 16:13:56.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [No Step on Snake]
+[03Dec2024 16:13:59.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[03Dec2024 16:14:48.836] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
