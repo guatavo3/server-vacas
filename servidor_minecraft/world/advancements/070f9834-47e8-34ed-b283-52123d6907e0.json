@@ -4398,13 +4398,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "wheat": "2024-12-03 00:36:31 +0000",
-      "carrot": "2024-12-03 01:30:13 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
       "tame_rat": "2024-12-03 00:20:43 +0000"
@@ -4417,15 +4410,28 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_tomato": "2024-12-03 01:39:27 +0000"
+      "wheat": "2024-12-03 00:36:31 +0000",
+      "carrot": "2024-12-03 01:30:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-03 00:36:31 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_jungle_trapdoor": "2024-12-03 01:10:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-03 01:39:27 +0000"
     },
     "done": true
   },
@@ -4438,12 +4444,6 @@
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2024-12-03 01:39:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-12-03 00:36:31 +0000"
     },
     "done": true
   },

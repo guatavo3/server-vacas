@@ -972,3 +972,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 01:58:11.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> el gustavo sabe olfatear
 [03Dec2024 01:58:15.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> tpeando
 [03Dec2024 01:59:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> nos perdimow
+[03Dec2024 02:01:20.796] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[03Dec2024 02:01:22.762] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/branch/ThickBranchBlock$ReplaceableState
+[03Dec2024 02:01:24.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 has made the advancement [Straddle My Ol' Saddle]
+[03Dec2024 02:02:17.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 tried to swim in lava to escape Magma Cube
+[03Dec2024 02:02:17.113] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-15, 58, -19) minecraft:the_nether
+[03Dec2024 02:02:36.073] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 02:02:37.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kanekasotaku lost connection: You logged in from another location
+[03Dec2024 02:02:37.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanekasotaku left the game
+[03Dec2024 02:02:37.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kanekasotaku[/[::1]:33182] logged in with entity id 34695 at (433.1943942005681, 91.0, 282.30000001192093)
+[03Dec2024 02:02:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanekasotaku joined the game
+[03Dec2024 02:04:10.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhosichoza lost connection: Timed out
+[03Dec2024 02:04:10.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza left the game
+[03Dec2024 02:04:26.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 moved too quickly! -0.17663297814660694,-10.801818083422361,-0.7143880458188505
+[03Dec2024 02:04:27.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was doomed to fall
+[03Dec2024 02:04:27.911] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-50, 37, -76) minecraft:the_nether
+[03Dec2024 02:05:06.439] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 02:05:29.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jhosichoza[/[::1]:38674] logged in with entity id 36031 at (1615.2148736601812, 92.0, 4290.684672448768)
+[03Dec2024 02:05:29.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza joined the game
+[03Dec2024 02:06:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was doomed to fall by Straddler
+[03Dec2024 02:06:09.520] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-68, 33, -119) minecraft:the_nether
+[03Dec2024 02:06:55.216] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 02:08:16.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> onde tas
+[03Dec2024 02:08:52.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by Zombie
+[03Dec2024 02:08:52.462] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(721, 64, -236) minecraft:overworld
+[03Dec2024 02:09:01.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> en q capa tas
+[03Dec2024 02:09:13.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> k
+[03Dec2024 02:09:25.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> q altura
+[03Dec2024 02:09:32.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <c_Benji0w0> -103,-106 121
+[03Dec2024 02:10:31.375] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
