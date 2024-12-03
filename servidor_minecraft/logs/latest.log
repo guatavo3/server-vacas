@@ -724,3 +724,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 00:27:52.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by jhosichoza
 [03Dec2024 00:27:52.962] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(484, 90, 226) minecraft:overworld
 [03Dec2024 00:28:24.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Skeleton
+[03Dec2024 00:29:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Stone Age]
+[03Dec2024 00:29:10.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Rotten to the Core]
+[03Dec2024 00:29:10.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Suit Up]
+[03Dec2024 00:34:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [We Need to Go Deeper]
+[03Dec2024 00:34:14.261] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[03Dec2024 00:34:14.262] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[03Dec2024 00:34:14.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[03Dec2024 00:34:14.288] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[03Dec2024 00:34:14.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[03Dec2024 00:34:36.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Poseidon, God of the Seas]
+[03Dec2024 00:34:51.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: You logged in from another location
+[03Dec2024 00:34:51.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 00:34:51.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:40410] logged in with entity id 5882 at (389.53546287017116, 99.6037636546968, 305.62408868296774)
+[03Dec2024 00:34:51.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 00:36:04.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
+[03Dec2024 00:36:04.644] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(389, 102, 305) minecraft:overworld
+[03Dec2024 00:36:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
+[03Dec2024 00:36:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza has made the advancement [A Seedy Place]
+[03Dec2024 00:37:26.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: You logged in from another location
+[03Dec2024 00:37:26.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 00:37:26.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:42586] logged in with entity id 6546 at (388.7285788191714, 102.0, 305.51274128433926)
+[03Dec2024 00:37:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 00:37:35.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was doomed to fall by jhosichoza
+[03Dec2024 00:37:35.624] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(385, 87, 310) minecraft:overworld
+[03Dec2024 00:38:25.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 was kicked for floating too long!
+[03Dec2024 00:38:25.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Flying is not enabled on this server
+[03Dec2024 00:38:25.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 00:38:50.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:34072] logged in with entity id 7005 at (448.3586339630283, 87.7801506214026, 254.89326753947645)
+[03Dec2024 00:38:50.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
