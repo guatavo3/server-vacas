@@ -851,3 +851,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 01:28:50.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by Phantom
 [03Dec2024 01:28:50.804] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(462, 88, 295) minecraft:overworld
 [03Dec2024 01:29:09.137] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 01:31:03.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> yo
+[03Dec2024 01:33:35.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by c_Benji0w0
+[03Dec2024 01:33:35.063] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(451, 88, 310) minecraft:overworld
+[03Dec2024 01:34:05.284] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 01:34:13.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 moved too quickly! -3138.1245252457843,82.07840000152588,-1976.0248773787944
+[03Dec2024 01:34:13.558] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[03Dec2024 01:34:14.103] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[03Dec2024 01:34:45.070] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[03Dec2024 01:35:26.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 froze to death
+[03Dec2024 01:35:26.660] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3627, 5, 2304) twilightforest:twilight_forest
+[03Dec2024 01:35:52.313] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Dec2024 01:36:39.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> no tengo é
+[03Dec2024 01:37:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> :D
+[03Dec2024 01:38:38.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kanekasotaku[/[::1]:52950] logged in with entity id 21186 at (370.1605900062288, 95.0, 294.8374650826609)
+[03Dec2024 01:38:38.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanekasotaku joined the game
+[03Dec2024 01:39:36.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[03Dec2024 01:39:52.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 has made the advancement [Local Brewery]
