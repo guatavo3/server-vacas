@@ -840,3 +840,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 01:16:37.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by Kobold
 [03Dec2024 01:16:48.834] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [03Dec2024 01:19:29.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[03Dec2024 01:20:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set the weather to clear]
+[03Dec2024 01:22:26.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: You logged in from another location
+[03Dec2024 01:22:26.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 01:22:26.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:43878] logged in with entity id 17919 at (411.0897022910027, 92.0, 367.00547194802243)
+[03Dec2024 01:22:26.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 01:25:01.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: c_Benji0w0[/[::1]:42016] logged in with entity id 18218 at (448.99719064389603, 88.0, 265.72382673068154)
+[03Dec2024 01:25:01.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: c_Benji0w0 joined the game
+[03Dec2024 01:26:20.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> ME LO COMI
+[03Dec2024 01:28:50.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosichoza was slain by Phantom
+[03Dec2024 01:28:50.804] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(462, 88, 295) minecraft:overworld
+[03Dec2024 01:29:09.137] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
