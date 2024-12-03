@@ -778,3 +778,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 00:46:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Getting an Upgrade]
 [03Dec2024 00:47:20.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
 [03Dec2024 00:47:20.658] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(463, 95, 288) minecraft:overworld
+[03Dec2024 00:49:48.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
+[03Dec2024 00:49:48.163] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(445, 94, 331) minecraft:overworld
+[03Dec2024 00:53:38.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: You logged in from another location
+[03Dec2024 00:53:38.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 00:53:38.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:60758] logged in with entity id 8670 at (452.2178431426448, 96.0, 334.2625533415705)
+[03Dec2024 00:53:38.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[03Dec2024 00:54:43.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 lost connection: You logged in from another location
+[03Dec2024 00:54:43.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 left the game
+[03Dec2024 00:54:43.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elguatavo7u7159[/[::1]:34330] logged in with entity id 8717 at (451.1267430829315, 95.0, 330.9918426715191)
+[03Dec2024 00:54:43.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 joined the game
+[03Dec2024 00:59:19.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: You logged in from another location
+[03Dec2024 00:59:19.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[03Dec2024 00:59:19.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/[::1]:38588] logged in with entity id 9236 at (451.1127304732129, 95.0, 334.5136867918866)
+[03Dec2024 00:59:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
