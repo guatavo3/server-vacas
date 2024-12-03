@@ -899,3 +899,7 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [03Dec2024 16:51:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 left the game
 [03Dec2024 16:53:48.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/[::1]:57866] logged in with entity id 30853 at (-3830.79186661304, 126.0, -86.90919825350406)
 [03Dec2024 16:53:48.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[03Dec2024 17:02:23.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Skeleton
+[03Dec2024 17:02:23.334] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(462, 30, 311) minecraft:overworld
+[03Dec2024 17:02:34.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/32418, l='ServerLevel[world]', x=-357.74, y=59.00, z=1421.74] died, message: 'Scribe was slain by Zombie'
+[03Dec2024 17:03:11.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32414, l='ServerLevel[world]', x=-355.70, y=58.00, z=1403.70] died, message: 'Villager was slain by Zombie'

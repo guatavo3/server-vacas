@@ -2524,10 +2524,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-03 02:41:27 +0000",
+      "minecraft:skeleton": "2024-12-03 17:00:43 +0000",
       "minecraft:vindicator": "2024-12-03 02:39:01 +0000",
       "minecraft:magma_cube": "2024-12-03 16:01:22 +0000",
       "minecraft:spider": "2024-12-03 15:35:18 +0000",
       "minecraft:creeper": "2024-12-03 15:34:36 +0000",
+      "minecraft:cave_spider": "2024-12-03 17:01:58 +0000",
       "minecraft:zombie": "2024-12-03 15:35:27 +0000"
     },
     "done": false
@@ -3192,6 +3194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-03 17:00:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-03 16:31:10 +0000"
@@ -3369,6 +3377,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-03 16:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-03 17:00:27 +0000"
     },
     "done": true
   },
@@ -3570,6 +3584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-03 17:00:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2024-12-03 16:35:20 +0000"
@@ -3627,6 +3647,12 @@
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-03 16:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-03 17:01:58 +0000"
     },
     "done": true
   },
