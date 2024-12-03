@@ -839,3 +839,39 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [03Dec2024 15:14:10.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Suit Up]
 [03Dec2024 15:20:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Acquire Hardware]
 [03Dec2024 15:21:06.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Isn't It Iron Pick]
+[03Dec2024 15:23:48.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk tried to swim in lava
+[03Dec2024 15:23:48.042] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(510, 17, 298) minecraft:overworld
+[03Dec2024 15:23:52.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> q pro
+[03Dec2024 15:24:29.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> 3
+[03Dec2024 15:24:31.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> 2
+[03Dec2024 15:24:33.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> 1
+[03Dec2024 15:24:50.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk lost connection: Timed out
+[03Dec2024 15:24:50.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk left the game
+[03Dec2024 15:26:38.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2794b490[id=<null>,name=Leodrickk,properties={},legacy=false] (/[::1]:48006) lost connection: Timed out
+[03Dec2024 15:26:51.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Skeleton
+[03Dec2024 15:26:51.492] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1697, 21, 179) minecraft:overworld
+[03Dec2024 15:27:28.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 fell from a high place
+[03Dec2024 15:27:28.846] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1697, 21, 178) minecraft:overworld
+[03Dec2024 15:27:30.063] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2442a773[id=<null>,name=Leodrickk,properties={},legacy=false] (/[::1]:36688) lost connection: Timed out
+[03Dec2024 15:27:59.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was blown up by Creeper
+[03Dec2024 15:27:59.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1690, 18, 134) minecraft:overworld
+[03Dec2024 15:28:10.085] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47382414[id=<null>,name=Leodrickk,properties={},legacy=false] (/[::1]:60858) lost connection: Timed out
+[03Dec2024 15:28:13.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Skeleton
+[03Dec2024 15:28:18.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ist_shadow> xD
+[03Dec2024 15:28:27.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Skeleton
+[03Dec2024 15:28:44.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@512ed0c2[id=<null>,name=Leodrickk,properties={},legacy=false] (/[::1]:45050) lost connection: Timed out
+[03Dec2024 15:28:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Spider
+[03Dec2024 15:28:56.095] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1685, 11, 136) minecraft:overworld
+[03Dec2024 15:29:04.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[03Dec2024 15:29:04.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@75a299db[id=<null>,name=Leodrickk,properties={},legacy=false] (/[::1]:53032): Took too long to log in
+[03Dec2024 15:29:04.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75a299db[id=<null>,name=Leodrickk,properties={},legacy=false] (/[::1]:53032) lost connection: Took too long to log in
+[03Dec2024 15:29:04.194] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 15:29:39.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Not Today, Thank You]
+[03Dec2024 15:31:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has reached the goal [Dinner's Served!]
+[03Dec2024 15:31:50.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=496, y=94, z=267} BlockPos{x=498, y=93, z=268}
+[03Dec2024 15:31:50.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=496, y=94, z=267} BlockPos{x=498, y=93, z=268}
+[03Dec2024 15:31:50.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=497, y=95, z=267} BlockPos{x=498, y=93, z=268}
+[03Dec2024 15:31:50.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=497, y=95, z=267} BlockPos{x=498, y=93, z=268}
+[03Dec2024 15:31:53.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=95, z=271} BlockPos{x=510, y=93, z=269}
+[03Dec2024 15:31:53.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=95, z=271} BlockPos{x=510, y=93, z=269}
+[03Dec2024 15:31:53.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=95, z=271} BlockPos{x=510, y=93, z=269}
