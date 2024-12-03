@@ -815,6 +815,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-01 03:23:28 +0000",
+      "pumpkin_pie": "2024-12-03 01:44:45 +0000",
       "bread": "2024-12-01 01:37:43 +0000",
       "golden_carrot": "2024-12-01 02:39:16 +0000"
     },
@@ -3391,6 +3392,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-01 13:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-03 01:41:20 +0000"
     },
     "done": true
   },
